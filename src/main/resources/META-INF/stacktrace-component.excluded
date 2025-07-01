@@ -1,2 +1,2 @@
-#cn.addenda.component.concurrent.thread.factory.UncaughtThreadFactory#of
-#cn.addenda.component.concurrent.thread.factory.NamedThreadFactory#of
+#cn.addenda.component.concurrency.thread.factory.UncaughtThreadFactory#of
+#cn.addenda.component.concurrency.thread.factory.NamedThreadFactory#of
